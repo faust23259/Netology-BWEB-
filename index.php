@@ -34,7 +34,7 @@
 				<a href="https://n.mishin.vekprom.ru/homework-1-http/file.php">Файловая структура</a>
 			</td>
 			<td class="row-value">
-				<a href="#">GitHub</a>
+				<a href="https://github.com/faust23259/Netology-BWEB-/commit/d96a08321b69be5202150e694c0f29580bf35353">GitHub</a>
 			</td>
 		</tr>
 		<tr class="row">
