@@ -42,7 +42,7 @@
 				<p>Библиотека JQuery <span style="color: red;">(In Process)</span></p>
 			</th>
 			<td class="row-value">
-				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/">Домашнее задание №2</a>
+				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/form_ajax.html">Домашнее задание №2</a>
 			</td>
 			<td class="row-value">
 				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/file.php">Файловая структура</a>
