@@ -42,13 +42,27 @@
 				<p>Библиотека JQuery <span style="color: red;">(In Process)</span></p>
 			</th>
 			<td class="row-value">
-				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/">Домашнее задание №1</a>
+				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/">Домашнее задание №2</a>
 			</td>
 			<td class="row-value">
 				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/file.php">Файловая структура</a>
 			</td>
 			<td class="row-value">
 				<a href="#">GitHub</a>
+			</td>
+		</tr>
+		<tr class="row">
+			<th class="row-title">
+				<p>Библиотека Bitrix JS</p>
+			</th>
+			<td class="row-value">
+				<a href="https://github.com/faust23259/Netology-BWEB-/commit/1298a4109144a6dd8ba65cd3afe6d89eece84e68">Домашнее задание №3</a>
+			</td>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-3-bitrixjs/file.php">Файловая структура</a>
+			</td>
+			<td class="row-value">
+				<a href="https://github.com/faust23259/Netology-BWEB-/commit/1298a4109144a6dd8ba65cd3afe6d89eece84e68">GitHub</a>
 			</td>
 		</tr>
 	</table>
