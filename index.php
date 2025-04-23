@@ -39,7 +39,7 @@
 		</tr>
 		<tr class="row">
 			<th class="row-title">
-				<p>Библиотека JQuery <span style="color: red;">(In Process)</span></p>
+				<p>Библиотека JQuery</p>
 			</th>
 			<td class="row-value">
 				<a href="https://n.mishin.vekprom.ru/homework-2-jquery/form_ajax.html">Домашнее задание №2</a>
