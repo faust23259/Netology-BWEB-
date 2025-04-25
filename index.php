@@ -76,7 +76,7 @@
 				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/file.php">Файловая структура</a>
 			</td>
 			<td class="row-value">
-				<a href="#">GitHub</a>
+				<a href="https://github.com/faust23259/Netology-BWEB-/tree/main/homework-4-restapi">GitHub</a>
 			</td>
 		</tr>
 	</table>
