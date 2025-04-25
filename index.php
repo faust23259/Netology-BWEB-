@@ -65,6 +65,20 @@
 				<a href="https://github.com/faust23259/Netology-BWEB-/commit/1298a4109144a6dd8ba65cd3afe6d89eece84e68">GitHub</a>
 			</td>
 		</tr>
+		<tr class="row">
+			<th class="row-title">
+				<p>REST API в Bitrix Framework</p>
+			</th>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/form_rest_ip.html">Домашнее задание №3</a>
+			</td>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/file.php">Файловая структура</a>
+			</td>
+			<td class="row-value">
+				<a href="#">GitHub</a>
+			</td>
+		</tr>
 	</table>
 </body>
 </html>
