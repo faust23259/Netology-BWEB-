@@ -79,6 +79,20 @@
 				<a href="https://github.com/faust23259/Netology-BWEB-/tree/main/homework-4-restapi">GitHub</a>
 			</td>
 		</tr>
+		<tr class="row">
+			<th class="row-title">
+				<p>Форматы обмена данными JSON, XML</p>
+			</th>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-5-json-xml/form_name.php">Домашнее задание №3</a>
+			</td>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-5-json-xml/file.php">Файловая структура</a>
+			</td>
+			<td class="row-value">
+				<a href="https://github.com/faust23259/Netology-BWEB-/tree/main/homework-5-json-xml">GitHub</a>
+			</td>
+		</tr>
 	</table>
 </body>
 </html>
