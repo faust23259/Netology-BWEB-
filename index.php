@@ -104,7 +104,7 @@
 				<a href="https://n.mishin.vekprom.ru/homework-6-sql/file.php">Файловая структура</a>
 			</td>
 			<td class="row-value">
-				<a href="#">GitHub</a>
+				<a href="https://github.com/faust23259/Netology-BWEB-/tree/main/homework-6-sql">GitHub</a>
 			</td>
 		</tr>
 	</table>
