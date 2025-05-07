@@ -70,7 +70,7 @@
 				<p>REST API в Bitrix Framework</p>
 			</th>
 			<td class="row-value">
-				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/form_rest_ip.html">Домашнее задание №3</a>
+				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/form_rest_ip.html">Домашнее задание №4</a>
 			</td>
 			<td class="row-value">
 				<a href="https://n.mishin.vekprom.ru/homework-4-restapi/file.php">Файловая структура</a>
@@ -84,13 +84,27 @@
 				<p>Форматы обмена данными JSON, XML</p>
 			</th>
 			<td class="row-value">
-				<a href="https://n.mishin.vekprom.ru/homework-5-json-xml/form_name.php">Домашнее задание №3</a>
+				<a href="https://n.mishin.vekprom.ru/homework-5-json-xml/form_name.php">Домашнее задание №5</a>
 			</td>
 			<td class="row-value">
 				<a href="https://n.mishin.vekprom.ru/homework-5-json-xml/file.php">Файловая структура</a>
 			</td>
 			<td class="row-value">
 				<a href="https://github.com/faust23259/Netology-BWEB-/tree/main/homework-5-json-xml">GitHub</a>
+			</td>
+		</tr>
+		<tr class="row">
+			<th class="row-title">
+				<p>Работа с базой данных MySQL</p>
+			</th>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-6-sql/form_order.php">Домашнее задание №6</a>
+			</td>
+			<td class="row-value">
+				<a href="https://n.mishin.vekprom.ru/homework-6-sql/file.php">Файловая структура</a>
+			</td>
+			<td class="row-value">
+				<a href="#">GitHub</a>
 			</td>
 		</tr>
 	</table>
